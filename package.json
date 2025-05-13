@@ -1,15 +1,15 @@
   {
   "name": "n8n-nodes-color-extractor",
   "version": "0.1.0",
-  "description": "",
+  "description": "is for color extractor package",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "aswin",
+    "email": "duraisathishraj@gmail.com"
   },
   "repository": {
     "type": "git",
