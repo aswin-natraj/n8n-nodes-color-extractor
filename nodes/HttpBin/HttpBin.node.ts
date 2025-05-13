@@ -13,8 +13,8 @@ export class HttpBin implements INodeType {
 		defaults: {
 			name: 'HttpBin',
 		},
-		inputs: ['main'],
-		outputs: ['main'],
+		inputs: ['main'] as NodeConnectionType[],
+		outputs: ['main'] as NodeConnectionType[],
 		credentials: [
 			{
 				name: 'httpbinApi',
